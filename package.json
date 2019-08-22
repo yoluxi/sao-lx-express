@@ -1,0 +1,25 @@
+{
+  "name": "sao-lx-express",
+  "version": "0.0.0",
+  "description": "express",
+  "repository": {
+    "url": "yoyoluxi/sao-lx-express",
+    "type": "git"
+  },
+  "author": "yoyoluxi <lixu19960317@gmail.com> (github.com/yoyoluxi)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0"
+  }
+}
